@@ -1,0 +1,32 @@
+{
+  "name": "bank",
+  "version": "1.0.0",
+  "description": "bank 1.0",
+  "main": "sever.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "author": "Lucas Nunes",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^4.0.1",
+    "compression": "^1.7.4",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "crypto-js": "^4.0.0",
+    "express": "^4.17.1",
+    "express-jwt": "^5.3.1",
+    "fs": "0.0.1-security",
+    "helmet": "^3.22.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.2",
+    "morgan": "^1.9.1",
+    "path": "^0.12.7",
+    "require-dir": "^1.2.0",
+    "winston": "^3.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
