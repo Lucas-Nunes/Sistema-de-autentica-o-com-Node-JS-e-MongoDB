@@ -20,7 +20,7 @@
     "fs": "0.0.1-security",
     "helmet": "^3.22.0",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^5.9.2",
+    "mongoose": "^5.13.20",
     "morgan": "^1.9.1",
     "path": "^0.12.7",
     "require-dir": "^1.2.0",
